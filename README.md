@@ -1,15 +1,8 @@
-# Personal Portfolio
+# Portfolio-legacy
 
 [🇺🇸 English](./README.md) | [🇧🇷 Português](./README.pt.md)
 
-
-![GitHub License](https://img.shields.io/github/license/emellybmuniz/portfolio)
-![GitHub language count](https://img.shields.io/github/languages/count/emellybmuniz/portfolio)
-![GitHub last commit](https://img.shields.io/github/last-commit/emellybmuniz/portfolio)
-![GitHub repo size](https://img.shields.io/github/repo-size/emellybmuniz/portfolio)
-![Project Status](https://img.shields.io/badge/Status-Completed-brightgreen)
-
-⚠️ This repository has been discontinued. To view the code for the latest and most up-to-date version of my portfolio, visit: github.com/emellybmuniz/portfolio.
+## ⚠️ This repository has been discontinued. To view the code for the latest and most up-to-date version of my portfolio, visit: [github.com/emellybmuniz/portfolio.](https://emellybeatriz.pages.dev)
 
 
 ---
@@ -28,8 +21,6 @@
 
 
 ## 🚀 Project Overview
-
-[![Project Demo](src/assets/images/project-demo.gif)](https://emellybmuniz.github.io/portfolio/)
 
 This portfolio was built from scratch to serve as a central hub for my professional identity as a Frontend Developer. The primary goal is to present my work in a clean, visually appealing, and user-friendly manner. It reflects my passion for technology and design, demonstrating how I transform ideas into functional and aesthetic digital solutions.
 

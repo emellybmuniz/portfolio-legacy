@@ -2,8 +2,7 @@
 
 [🇺🇸 English](./README.md) | [🇧🇷 Português](./README.pt.md)
 
-## ⚠️ Este repositório foi descontinuado. Para ver o código da versão mais recente e moderna do meu portfólio, acesse: https://emellybeatriz.pages.dev
-
+## ⚠️ Este repositório foi descontinuado. Para ver o código da versão mais recente e moderna do meu portfólio, acesse: [emellybeatriz.pages.dev](https://emellybeatriz.pages.dev)
 
 ---
 ### 📋 Índice

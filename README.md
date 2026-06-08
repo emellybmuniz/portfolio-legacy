@@ -9,6 +9,7 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/emellybmuniz/portfolio)
 ![Project Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 
+⚠️ This repository has been discontinued. To view the code for the latest and most up-to-date version of my portfolio, visit: github.com/emellybmuniz/portfolio.
 
 This repository contains the source code for my personal portfolio website. It's a fully responsive, single-page application designed to showcase my skills, feature my projects, and provide a way for potential employers and collaborators to connect with me.
 

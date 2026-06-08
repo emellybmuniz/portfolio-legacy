@@ -2,7 +2,7 @@
 
 [🇺🇸 English](./README.md) | [🇧🇷 Português](./README.pt.md)
 
-## ⚠️ This repository has been discontinued. To view the code for the latest and most up-to-date version of my portfolio, visit: [github.com/emellybmuniz/portfolio.](https://emellybeatriz.pages.dev)
+## ⚠️ This repository has been discontinued. To view the code for the latest and most up-to-date version of my portfolio, visit: [emellybeatriz.pages.dev](https://emellybeatriz.pages.dev)
 
 
 ---

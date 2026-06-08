@@ -2,15 +2,7 @@
 
 [🇺🇸 English](./README.md) | [🇧🇷 Português](./README.pt.md)
 
-
-![GitHub License](https://img.shields.io/github/license/emellybmuniz/portfolio)
-![GitHub language count](https://img.shields.io/github/languages/count/emellybmuniz/portfolio)
-![GitHub last commit](https://img.shields.io/github/last-commit/emellybmuniz/portfolio)
-![GitHub repo size](https://img.shields.io/github/repo-size/emellybmuniz/portfolio)
-![Status do Projeto](https://img.shields.io/badge/Status-Concluído-brightgreen)
-
-
-⚠️ Este repositório foi descontinuado. Para ver o código da versão mais recente e moderna do meu portfólio, acesse: github.com/emellybmuniz/portfolio.
+## ⚠️ Este repositório foi descontinuado. Para ver o código da versão mais recente e moderna do meu portfólio, acesse: https://emellybeatriz.pages.dev
 
 
 ---

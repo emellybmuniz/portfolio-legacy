@@ -10,7 +10,7 @@
 ![Status do Projeto](https://img.shields.io/badge/Status-Concluído-brightgreen)
 
 
-Este repositório contém o código-fonte do meu site de portfólio pessoal. É uma aplicação de página única, totalmente responsiva, projetada para exibir minhas habilidades, destacar meus projetos e fornecer um meio para que potenciais empregadores e colaboradores possam entrar em contato.
+⚠️ Este repositório foi descontinuado. Para ver o código da versão mais recente e moderna do meu portfólio, acesse: github.com/emellybmuniz/portfolio.
 
 
 ---
